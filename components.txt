@@ -1,0 +1,13 @@
+Interactive Hospitality Robot - Components
+
+1. Arduino UNO - Main robot control
+2. ESP32 Development Board - Bluetooth-controlled mobile base
+3. LCD Display (16x2 with I2C module) - Welcome messages
+4. DC Motors - Robot movement / mobile base
+5. Motor Driver Module - DC motor control
+6. Servo Motors - Hand/arm movement and rose presentation
+7. Bluetooth Control - ESP32 wireless communication
+8. RC Car Chassis - Mobile base
+9. Battery Pack - Power supply
+10. Connecting Wires
+11. Rose or Bouquet - Hospitality presentation prop
